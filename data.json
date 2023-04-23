@@ -3,17 +3,27 @@
         {
             "id": "1",
             "checked": false,
-            "item": "Item 1"
+            "name": "Item 1",
+            "descreption":"about the product",
+            "type":"big bottel",
+            "imgSrc":"https://i5.walmartimages.com/asr/c64fe48e-d6c0-48cf-80d5-a647d0db641a_1.ad40a19cda58afb1c7baaf016423f67b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
         },
         {
             "id": "2",
             "checked": false,
-            "item": "Item 2"
+            "name": "Item 2",
+            "descreption":"about the product",
+            "type":"small bottel",
+            "imgSrc":"https://i5.walmartimages.com/asr/c64fe48e-d6c0-48cf-80d5-a647d0db641a_1.ad40a19cda58afb1c7baaf016423f67b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+
         },
         {
             "id": "3",
-            "checked": false,
-            "item": "Item 3"
+          "checked": false,
+            "name": "Item3",
+            "descreption":"about the product",
+            "type":"qarora",
+            "imgSrc":"https://i5.walmartimages.com/asr/c64fe48e-d6c0-48cf-80d5-a647d0db641a_1.ad40a19cda58afb1c7baaf016423f67b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
         }
     ]
 
